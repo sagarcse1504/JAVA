@@ -1,4 +1,4 @@
-package Java4thAssignment;
+package JavaAssignment4th;
 
 class DeafultModifier {
     void defaultMethod() {

@@ -1,4 +1,4 @@
-package Java4thAssignment;
+package JavaAssignment4th;
 
 public class DeafultMain {
     public static void main(String[] args) {

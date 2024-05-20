@@ -1,4 +1,4 @@
-package Java4thAssignment;
+package JavaAssignment4th;
 
 public class PrivateModifier {
     private void privateMethod(){

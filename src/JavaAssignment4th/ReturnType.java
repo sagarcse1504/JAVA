@@ -1,4 +1,4 @@
-package Java4thAssignment;
+package JavaAssignment4th;
 
 public class ReturnType {
     //a Class with void, non void, without Param & with Param; create Object and call those methods

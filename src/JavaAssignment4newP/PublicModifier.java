@@ -1,4 +1,4 @@
-package Class41;
+package JavaAssignment4newP;
 
 public class PublicModifier {
     public void publicMethod() {
